@@ -25,4 +25,4 @@ localhost:6080 or YOUR_SYSTEM'S_IP:6080
 
 then
 go to
-Android-studio > bin > studio.sh or search in "opt" folder , then execute the script and run your android-studio on your browser
+Android-studio > bin > studio.sh or search in "opt" folder , then execute the script and run your android-studio on your browser.
